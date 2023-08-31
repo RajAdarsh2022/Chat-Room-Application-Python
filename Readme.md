@@ -29,11 +29,12 @@ Welcome to the Chat Room Application! This user-friendly chat application, built
 
 ## Usage
 
-1. Start the server:
-python server.py
+1. Start the server: 
+    ```python server.py```
+    
 
-2. Launch the client application:
-python client.py
+2. Launch the client application: 
+    ```python client.py```
 
 
 If the connection to the server fails, an error message will be displayed.
@@ -46,3 +47,7 @@ If the connection to the server fails, an error message will be displayed.
 
 6. View chat history and active users in their respective sections.
 
+## Screenshots
+
+![Login Window](https://github.com/RajAdarsh2022/Chat-Room-Application-Python/blob/master/images/screenshots/login-chatroom.png)
+![Main Chat Window](https://github.com/RajAdarsh2022/Chat-Room-Application-Python/blob/master/images/screenshots/chatwindow-chatroom.png)
